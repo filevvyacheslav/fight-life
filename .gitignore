@@ -1,0 +1,6 @@
+backups/
+node_modules/
+.github-upload.mjs
+*.log
+.DS_Store
+Thumbs.db
